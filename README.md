@@ -15,6 +15,7 @@ Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 * 3. Aşama : [2,6,16,18,22,27]
 
 ---
+
 Big-O gösterimini yazınız.
 
 
