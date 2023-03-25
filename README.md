@@ -51,6 +51,7 @@ Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden
     5.   [11,16,21]                   [8,12,22]
 
     6.             [8,11,12,16,21,22]    
+
 ---
 Big-O gösterimini yazınız.
 * O[nlogn]
